@@ -1,5 +1,5 @@
 def my_hash
- Hash.new {"name" => "Sam", "pet" => "Scooby"}
+ bio_hash = {"name" => "Sam", "pet" => "Scooby"}
 end
 
 
